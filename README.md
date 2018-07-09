@@ -1,4 +1,4 @@
-# _               ![GroupHub](https://raw.githubusercontent.com/AvePoint/cloud-grouphub-samples/master/cloud-grouphub.png)                                     [AvePoint GroupHub](https://gh.avepointonlineservices.com/)
+# ![GroupHub](https://raw.githubusercontent.com/AvePoint/cloud-grouphub-samples/master/cloud-grouphub.png)[AvePoint GroupHub](https://gh.avepointonlineservices.com/)
 
 # what’s GroupHub?  
 We get it, Office 365 Groups are powerful, but time spent searching for the right groups and content can impact adoption
@@ -17,6 +17,9 @@ oversee and bring order to Office 365 Groups.
 * "Hubs" allow users to create collections of groups based on filters, tags, or manual selection for easy future access
 * Leverage native Office 365 Groups provisioning or Cloud Governance’s Groups provisioning from directly within GroupHub
 * Administrators can configure native Office 365 Groups management settings without the need for PowerShell
+
+Filtering the list of Office 365 Groups by tags, allowing multiple conditions to be defined, creates a powerful way for users to
+find exactly what they need. 
 
 # Avepoint-group-hub-samples
 A sample solution shows the approach using the AvePoint Group Hub client sdk to interact with Group Hub Service.
