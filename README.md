@@ -18,5 +18,21 @@ oversee and bring order to Office 365 Groups.
 * Leverage native Office 365 Groups provisioning or Cloud Governance’s Groups provisioning from directly within GroupHub
 * Administrators can configure native Office 365 Groups management settings without the need for PowerShell
 
-# avepoint-group-hub-samples
+# Avepoint-group-hub-samples
 A sample solution shows the approach using the AvePoint Group Hub client sdk to interact with Group Hub Service.
+
+## Project Details
+The sample solution shows the possible approachs to interact with [AvePoint Cloud Governance](https://www.avepointonlineservices.com/). Basically the demo solution show three aspects of the AvePoint Cloud Governace. 
+
+* **_sdk_** project shows the GroupHub Api demo is conformance with group hub web api,sdk is a proxy of the web api and give the client side developer a clear vision of the api interface.
+
+## Building projects
+
+In order to use the Cloud-GroupHub-Sample solution, ensure that you have [visual studio 2017](https://www.visualstudio.com/) and [.NET Frameworkd 4.6.1](https://www.microsoft.com/en-us/download/details.aspx?id=49982) installed.
+
+Clone a copy of the repo:
+
+```bash
+git clone https://github.com/AvePoint/cloud-grouphub-samples.git
+```
+Open the cloud-governance-samples directory and double click the vs solution file.
