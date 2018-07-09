@@ -21,11 +21,11 @@ oversee and bring order to Office 365 Groups.
 Filtering the list of Office 365 Groups by tags, allowing multiple conditions to be defined, creates a powerful way for users to
 find exactly what they need. 
 
-# Avepoint-group-hub-samples
-A sample solution shows the approach using the AvePoint Group Hub client sdk to interact with Group Hub Service.
+# Avepoint-grouphub-samples
+A sample solution shows the approach using the AvePoint GroupHub client sdk to interact with GroupHub Service.
 
 ## Project Details
-The sample solution shows the possible approachs to interact with [AvePoint GroupHub](https://gh.avepointonlineservices.com/). Basically the demo solution show three aspects of the AvePoint Cloud Governace. 
+The sample solution shows the possible approachs to interact with [AvePoint GroupHub](https://gh.avepointonlineservices.com/). 
 
 * **_sdk_** project shows the GroupHub Api demo is conformance with group hub web api,sdk is a proxy of the web api and give the client side developer a clear vision of the api interface.
 
@@ -38,4 +38,4 @@ Clone a copy of the repo:
 ```bash
 git clone https://github.com/AvePoint/cloud-grouphub-samples.git
 ```
-Open the cloud-governance-samples directory and double click the vs solution file.
+Open the cloud-grouphub-samples directory and double click the vs solution file.
