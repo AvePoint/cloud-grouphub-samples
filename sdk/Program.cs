@@ -56,6 +56,7 @@
             var authenticationContext = new AuthenticationContext(authority);
             var userId = new UserIdentifier(userName, UserIdentifierType.OptionalDisplayableId);
             var result = authenticationContext.AcquireToken(resource, clientId, new Uri(redirectUri), PromptBehavior.Always, userId);
+           
             AuthenticationTokenModel model = new AuthenticationTokenModel();
             model.AccessToken = result.AccessToken;
             model.RefreshToken = result.RefreshToken;
