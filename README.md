@@ -1,4 +1,4 @@
-
+# ![GroupHub](https://raw.githubusercontent.com/AvePoint/cloud-grouphub-samples/master/cloud-grouphub.png)AvePoint Cloud Governance
 
 # what’s GroupHub?  
 We get it, Office 365 Groups are powerful, but time spent searching for the right groups and content can impact adoption
@@ -22,7 +22,7 @@ oversee and bring order to Office 365 Groups.
 A sample solution shows the approach using the AvePoint Group Hub client sdk to interact with Group Hub Service.
 
 ## Project Details
-The sample solution shows the possible approachs to interact with [AvePoint Cloud Governance](https://www.avepointonlineservices.com/). Basically the demo solution show three aspects of the AvePoint Cloud Governace. 
+The sample solution shows the possible approachs to interact with [AvePoint GroupHub](https://gh.avepointonlineservices.com/). Basically the demo solution show three aspects of the AvePoint Cloud Governace. 
 
 * **_sdk_** project shows the GroupHub Api demo is conformance with group hub web api,sdk is a proxy of the web api and give the client side developer a clear vision of the api interface.
 
