@@ -1,4 +1,4 @@
-# ![GroupHub](https://raw.githubusercontent.com/AvePoint/cloud-grouphub-samples/master/cloud-grouphub.png)[AvePoint GroupHub](https://gh.avepointonlineservices.com/)
+#          ![GroupHub](https://raw.githubusercontent.com/AvePoint/cloud-grouphub-samples/master/cloud-grouphub.png)[AvePoint GroupHub](https://gh.avepointonlineservices.com/)
 
 # what’s GroupHub?  
 We get it, Office 365 Groups are powerful, but time spent searching for the right groups and content can impact adoption
